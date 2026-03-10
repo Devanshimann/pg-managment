@@ -1,0 +1,510 @@
+area,room_type,rent,wifi,ac,laundry,cleanliness,rating,gender
+Jagatpura,triple sharing,21000,yes,yes,no,4,4,boys pf
+Jagatpura,single room,11000,yes,no,yes,4,4,boys pf
+Jagatpura,single room,13000,yes,no,no,4,4,boys pf
+Sitapura,double sharing,8000,no,yes,no,3,3,girls pg
+Jagatpura,double sharing,10500,yes,no,yes,1,1,boys pg
+Jagatpura,single room,12000,yes,no,yes,2,2,boys pg
+Pratap Nagar ,single room,13000,yes,yes,no,3,1,girls pg
+Jagatpura ,single room,6500,yes,yes,no,3,2,boys pg
+Jagatpura,single room,14000,yes,yes,yes,4,5,boys pg
+Adarsh Nagar,double sharing,12000,no,yes,no,3,4,girls pg
+Chitrakoot,double sharing,7000,no,yes,no,2,2,girls pg
+Mansarovar,single room,10000,yes,yes,no,3,2,girls pg
+Sitapura,single room,7000,yes,yes,no,3,1,boys pg
+Civil Lines,double sharing,5000,no,yes,no,2,2,girls pg
+Gopalpura,single room,9000,yes,no,no,3,4,boys pf
+Vidyadhar Nagar,single room,10000,yes,no,no,4,4,boys pf
+Ajmer Road,single room,9000,yes,yes,yes,3,5,boys pg
+Chitrakoot,double sharing,8000,yes,no,yes,1,1,boys pg
+Jhotwara,single room,10000,yes,yes,no,3,2,boys pg
+Mansarovar,single room,9000,yes,no,no,3,4,boys pf
+Sitapura,single room,8000,yes,yes,yes,4,5,boys pg
+Malviya Nagar,single room,5000,yes,no,yes,1,2,boys pg
+Malviya Nagar,single room,11000,yes,no,yes,2,1,boys pg
+Kalwar Road,single room,6000,yes,no,yes,1,3,boys pg
+Vaishali Nagar,single room,11000,yes,no,no,4,3,boys pf
+Shyam Nagar,single room,11000,yes,no,yes,1,1,boys pg
+Jagatpura,single room,9000,yes,yes,yes,3,4,boys pg
+Pratap Nagar,single room,7000,yes,yes,no,4,2,boys pg
+Kalwar Road,single room,11000,yes,no,yes,2,2,boys pg
+Shyam Nagar,double sharing,10000,yes,no,yes,1,1,boys pg
+Mansarovar,single room,10000,yes,yes,no,3,2,girls pg
+Sitapura,double sharing,12000,yes,no,yes,2,2,boys pg
+C-Scheme,single room,12000,yes,no,yes,5,4,boys pf
+Vidyadhar Nagar,triple sharing,9000,yes,yes,no,5,4,boys pf
+Chitrakoot,triple sharing,8000,yes,yes,no,4,4,boys pf
+Tonk Road,double sharing,5000,no,yes,no,2,3,girls pg
+Tonk Road,single room,11000,yes,yes,no,4,1,boys pg
+Kalwar Road,single room,11000,yes,yes,yes,4,5,boys pg
+Jagatpura,single room,11000,yes,no,yes,2,3,boys pg
+Jagatpura,single room,5000,yes,no,yes,1,3,boys pg
+Ajmer Road,single room,6000,yes,yes,yes,3,4,boys pg
+Ajmer Road,single room,6000,yes,yes,no,4,2,boys pg
+Bani Park,single room,7000,yes,no,yes,4,5,boys pf
+Malviya Nagar,triple sharing,6000,yes,yes,no,5,4,boys pf
+Tonk Road,single room,10000,yes,yes,no,2,1,boys pg
+Jagatpura,double sharing,7000,yes,no,yes,2,1,boys pg
+Kalwar Road,single room,9000,yes,no,yes,4,5,boys pf
+Pratap Nagar,double sharing,10000,yes,no,yes,1,1,boys pg
+Kalwar Road,triple sharing,10000,yes,yes,no,4,4,boys pf
+Sitapura,single room,10000,yes,yes,no,3,2,boys pg
+Tonk Road,single room,8000,yes,yes,no,2,1,girls pg
+Gopalpura,triple sharing,12000,yes,yes,no,4,4,boys pf
+Raja Park,double sharing,8000,no,yes,no,4,3,girls pg
+Sitapura,single room,11000,yes,yes,yes,5,5,boys pg
+Bani Park,single room,7000,yes,no,yes,4,4,boys pf
+Ajmer Road,single room,10000,yes,yes,yes,5,5,boys pg
+C-Scheme,single room,10000,yes,yes,no,2,2,girls pg
+Jhotwara,single room,11000,yes,yes,no,2,2,girls pg
+Shyam Nagar,single room,6000,yes,yes,yes,4,4,boys pg
+Sodala,single room,11000,yes,no,yes,4,5,boys pf
+Shyam Nagar,single room,12000,yes,yes,yes,3,5,boys pg
+Pratap Nagar,single room,9000,yes,no,yes,2,1,boys pg
+Gopalpura,triple sharing,11000,yes,yes,no,5,5,boys pf
+Adarsh Nagar,single room,12000,yes,no,yes,1,3,boys pg
+Kalwar Road,triple sharing,5000,yes,yes,no,4,5,boys pf
+Adarsh Nagar,double sharing,7000,yes,no,yes,2,1,boys pg
+Mansarovar,double sharing,11000,yes,no,yes,2,1,boys pg
+Pratap Nagar,double sharing,7000,no,yes,no,4,2,girls pg
+Bani Park,single room,12000,yes,yes,no,2,1,girls pg
+Tonk Road,triple sharing,10000,yes,yes,no,3,5,boys pf
+Mansarovar,double sharing,8000,yes,no,yes,2,2,boys pg
+Bani Park,triple sharing,9000,yes,yes,no,5,3,boys pf
+C-Scheme,single room,8000,yes,no,yes,3,1,boys pg
+Bani Park,double sharing,7000,no,yes,no,4,4,girls pg
+Adarsh Nagar,triple sharing,8000,yes,yes,no,5,3,boys pf
+Pratap Nagar,single room,11000,yes,no,yes,2,3,boys pg
+C-Scheme,double sharing,5000,no,yes,no,4,3,girls pg
+Jagatpura,double sharing,5000,no,yes,no,4,2,girls pg
+Vaishali Nagar,single room,9000,yes,no,yes,2,2,boys pg
+C-Scheme,single room,12000,yes,no,yes,5,3,boys pf
+Pratap Nagar,single room,8000,yes,no,yes,4,3,boys pf
+Mansarovar,single room,11000,yes,yes,yes,5,4,boys pg
+Malviya Nagar,double sharing,7000,no,yes,no,2,4,girls pg
+Bani Park,single room,11000,yes,no,yes,3,3,boys pf
+Mansarovar,single room,7000,yes,no,no,3,3,boys pf
+Kalwar Road,double sharing,12000,no,yes,no,3,2,girls pg
+Tonk Road,single room,11000,yes,yes,no,3,2,boys pg
+Raja Park,single room,11000,yes,yes,no,2,3,boys pg
+Pratap Nagar,single room,8000,yes,yes,no,2,2,boys pg
+Bani Park,single room,11000,yes,yes,no,3,1,girls pg
+Sitapura,single room,9000,yes,no,no,3,5,boys pf
+Adarsh Nagar,single room,12000,yes,yes,no,2,2,boys pg
+Ajmer Road,single room,5000,yes,yes,yes,4,5,boys pg
+Tonk Road,single room,10000,yes,yes,no,3,3,boys pg
+Mansarovar,single room,12000,yes,yes,no,3,1,girls pg
+Malviya Nagar,single room,12000,yes,yes,no,2,1,girls pg
+C-Scheme,single room,10000,yes,yes,no,4,1,girls pg
+Jagatpura,single room,8000,yes,no,yes,5,5,boys pf
+Vaishali Nagar,single room,5000,yes,yes,no,2,3,boys pg
+Sodala,single room,11000,yes,no,no,4,4,boys pf
+Sitapura,single room,10000,yes,yes,yes,4,4,boys pg
+Mansarovar,single room,8000,yes,yes,no,2,1,girls pg
+Shyam Nagar,single room,7000,yes,yes,no,2,1,girls pg
+Sitapura,single room,7000,yes,no,no,5,5,boys pf
+Kalwar Road,single room,11000,yes,yes,yes,4,4,boys pg
+Jagatpura,single room,12000,yes,yes,no,3,1,girls pg
+Gopalpura,single room,12000,yes,no,yes,3,4,boys pf
+Vaishali Nagar,double sharing,10000,no,yes,no,3,4,girls pg
+Adarsh Nagar,double sharing,8000,yes,no,yes,2,2,boys pg
+Sitapura,single room,11000,yes,yes,no,4,2,boys pg
+Kalwar Road,single room,9000,yes,yes,no,3,2,girls pg
+Shyam Nagar,triple sharing,7000,yes,yes,no,5,5,boys pf
+Gopalpura,single room,10000,yes,yes,no,3,1,girls pg
+Civil Lines,single room,5000,yes,no,no,5,3,boys pf
+Gopalpura,single room,12000,yes,yes,yes,5,5,boys pg
+Mansarovar,triple sharing,10000,yes,yes,no,5,5,boys pf
+Vidyadhar Nagar,triple sharing,9000,yes,yes,no,3,3,boys pf
+Pratap Nagar,single room,12000,yes,no,yes,1,1,boys pg
+Raja Park,single room,8000,yes,no,no,4,5,boys pf
+Raja Park,double sharing,8000,yes,no,yes,2,1,boys pg
+Adarsh Nagar,single room,8000,yes,no,yes,3,1,boys pg
+Adarsh Nagar,double sharing,8000,no,yes,no,2,2,girls pg
+Civil Lines,single room,5000,yes,no,no,3,5,boys pf
+Jagatpura,single room,7000,yes,no,no,4,3,boys pf
+Mansarovar,double sharing,10000,yes,no,yes,2,1,boys pg
+Vidyadhar Nagar,triple sharing,6000,yes,yes,no,5,4,boys pf
+Jhotwara,single room,9000,yes,no,no,3,4,boys pf
+Chitrakoot,double sharing,8000,yes,no,yes,2,1,boys pg
+Adarsh Nagar,single room,10000,yes,yes,no,2,1,boys pg
+Tonk Road,single room,9000,yes,no,yes,3,3,boys pg
+Bani Park,double sharing,6000,no,yes,no,4,3,girls pg
+Sodala,single room,9000,yes,no,yes,3,3,boys pg
+Bani Park,double sharing,12000,no,yes,no,3,2,girls pg
+Vidyadhar Nagar,double sharing,12000,no,yes,no,3,3,girls pg
+Vaishali Nagar,single room,9000,yes,yes,yes,3,5,boys pg
+Vaishali Nagar,single room,9000,yes,no,no,3,3,boys pf
+Mansarovar,single room,11000,yes,no,yes,3,4,boys pf
+Sitapura,single room,5000,yes,no,yes,2,2,boys pg
+Sodala,single room,7000,yes,no,yes,4,4,boys pf
+Gopalpura,single room,6000,yes,no,yes,4,4,boys pf
+C-Scheme,single room,12000,yes,yes,no,2,1,boys pg
+Ajmer Road,double sharing,6000,yes,no,yes,1,1,boys pg
+Chitrakoot,single room,8000,yes,no,yes,2,2,boys pg
+Mansarovar,single room,8000,yes,no,yes,1,1,boys pg
+Raja Park,double sharing,7000,yes,no,yes,2,1,boys pg
+Malviya Nagar,single room,9000,yes,yes,yes,3,5,boys pg
+Civil Lines,single room,5000,yes,no,yes,3,1,boys pg
+Vaishali Nagar,single room,12000,yes,yes,no,2,3,boys pg
+Adarsh Nagar,single room,5000,yes,no,no,3,4,boys pf
+Sodala,single room,8000,yes,yes,no,2,1,boys pg
+Ajmer Road,single room,8000,yes,no,no,5,3,boys pf
+Tonk Road,double sharing,8000,no,yes,no,3,2,girls pg
+C-Scheme,single room,9000,yes,yes,no,3,2,boys pg
+Pratap Nagar,single room,7000,yes,no,no,5,3,boys pf
+Raja Park,double sharing,7000,yes,no,yes,1,1,boys pg
+Ajmer Road,double sharing,12000,yes,no,yes,1,1,boys pg
+Mansarovar,double sharing,10000,no,yes,no,4,2,girls pg
+Jhotwara,single room,6000,yes,no,no,3,3,boys pf
+Adarsh Nagar,single room,11000,yes,yes,no,3,3,boys pg
+Mansarovar,single room,9000,yes,no,no,5,4,boys pf
+Malviya Nagar,single room,7000,yes,yes,yes,3,4,boys pg
+Jhotwara,double sharing,11000,no,yes,no,3,3,girls pg
+Malviya Nagar,single room,5000,yes,yes,no,3,2,girls pg
+Chitrakoot,triple sharing,9000,yes,yes,no,3,4,boys pf
+Sitapura,single room,11000,yes,no,yes,2,3,boys pg
+Gopalpura,single room,6000,yes,no,yes,5,3,boys pf
+Vidyadhar Nagar,single room,8000,yes,yes,yes,4,4,boys pg
+Tonk Road,single room,11000,yes,no,no,5,5,boys pf
+Jagatpura,triple sharing,7000,yes,yes,no,5,5,boys pf
+Gopalpura,double sharing,9000,yes,no,yes,1,1,boys pg
+Raja Park,single room,7000,yes,no,yes,4,5,boys pf
+Sodala,single room,11000,yes,yes,no,4,3,boys pg
+Shyam Nagar,single room,8000,yes,yes,yes,5,5,boys pg
+Sodala,double sharing,8000,no,yes,no,2,4,girls pg
+Sitapura,single room,9000,yes,yes,no,3,1,girls pg
+Pratap Nagar,single room,7000,yes,no,yes,4,4,boys pf
+Vaishali Nagar,triple sharing,6000,yes,yes,no,4,5,boys pf
+Civil Lines,double sharing,6000,no,yes,no,2,4,girls pg
+Mansarovar,single room,9000,yes,no,yes,3,4,boys pf
+Mansarovar,single room,10000,yes,no,no,5,5,boys pf
+Gopalpura,single room,8000,yes,yes,no,3,1,boys pg
+Vidyadhar Nagar,single room,6000,yes,no,yes,1,3,boys pg
+Chitrakoot,single room,11000,yes,no,no,5,5,boys pf
+Jhotwara,single room,11000,yes,no,yes,2,2,boys pg
+Chitrakoot,double sharing,5000,yes,no,yes,1,1,boys pg
+Gopalpura,single room,9000,yes,yes,no,4,2,girls pg
+Malviya Nagar,single room,10000,yes,no,no,4,4,boys pf
+Ajmer Road,single room,12000,yes,yes,yes,4,5,boys pg
+Chitrakoot,triple sharing,6000,yes,yes,no,3,3,boys pf
+Raja Park,single room,7000,yes,no,yes,4,5,boys pf
+Raja Park,single room,8000,yes,no,yes,3,5,boys pf
+Kalwar Road,double sharing,10000,no,yes,no,3,4,girls pg
+Ajmer Road,single room,8000,yes,no,yes,1,3,boys pg
+Malviya Nagar,single room,11000,yes,no,no,4,4,boys pf
+Kalwar Road,double sharing,11000,yes,no,yes,1,1,boys pg
+Kalwar Road,single room,9000,yes,yes,no,2,1,girls pg
+Sitapura,single room,7000,yes,no,yes,4,4,boys pf
+Pratap Nagar,single room,5000,yes,yes,no,4,1,girls pg
+Gopalpura,single room,5000,yes,no,no,5,4,boys pf
+Raja Park,single room,9000,yes,yes,no,3,2,boys pg
+Ajmer Road,single room,6000,yes,yes,no,4,1,girls pg
+Raja Park,single room,8000,yes,no,no,5,4,boys pf
+Malviya Nagar,single room,8000,yes,yes,yes,5,5,boys pg
+Vaishali Nagar,single room,12000,yes,no,no,3,5,boys pf
+Sodala,triple sharing,6000,yes,yes,no,5,3,boys pf
+Chitrakoot,single room,12000,yes,no,yes,1,1,boys pg
+Tonk Road,single room,9000,yes,yes,yes,4,4,boys pg
+Mansarovar,single room,6000,yes,no,yes,4,5,boys pf
+Jagatpura,single room,12000,yes,yes,no,2,1,girls pg
+Ajmer Road,single room,10000,yes,yes,no,3,1,girls pg
+Sitapura,double sharing,11000,yes,no,yes,1,2,boys pg
+Adarsh Nagar,double sharing,9000,yes,no,yes,1,2,boys pg
+Shyam Nagar,double sharing,11000,no,yes,no,3,4,girls pg
+Bani Park,triple sharing,5000,yes,yes,no,3,4,boys pf
+Chitrakoot,single room,10000,yes,no,yes,3,2,boys pg
+Shyam Nagar,single room,7000,yes,no,yes,2,1,boys pg
+Sodala,single room,10000,yes,yes,yes,5,5,boys pg
+Adarsh Nagar,single room,5000,yes,no,no,3,3,boys pf
+Malviya Nagar,single room,5000,yes,yes,no,2,2,boys pg
+Mansarovar,double sharing,7000,no,yes,no,3,3,girls pg
+Kalwar Road,triple sharing,10000,yes,yes,no,5,5,boys pf
+C-Scheme,single room,6000,yes,no,yes,3,3,boys pf
+Chitrakoot,single room,12000,yes,yes,no,2,1,boys pg
+Jhotwara,single room,9000,yes,no,yes,3,3,boys pf
+Bani Park,single room,11000,yes,no,no,5,3,boys pf
+Kalwar Road,single room,10000,yes,yes,no,3,2,boys pg
+Sitapura,single room,9000,yes,yes,no,2,2,boys pg
+Shyam Nagar,single room,6000,yes,no,yes,2,1,boys pg
+Shyam Nagar,single room,5000,yes,no,no,5,3,boys pf
+Ajmer Road,single room,11000,yes,no,yes,3,4,boys pf
+Civil Lines,single room,10000,yes,no,yes,2,2,boys pg
+Adarsh Nagar,single room,9000,yes,yes,no,4,2,girls pg
+Jagatpura,single room,5000,yes,yes,yes,4,5,boys pg
+Jagatpura,single room,12000,yes,yes,no,2,2,girls pg
+Sodala,single room,10000,yes,no,no,3,3,boys pf
+Kalwar Road,single room,11000,yes,no,yes,1,1,boys pg
+Shyam Nagar,single room,5000,yes,yes,no,3,1,boys pg
+Ajmer Road,triple sharing,5000,yes,yes,no,5,5,boys pf
+Sodala,single room,11000,yes,no,yes,3,4,boys pf
+Bani Park,single room,9000,yes,no,yes,1,2,boys pg
+Adarsh Nagar,single room,10000,yes,no,yes,2,3,boys pg
+C-Scheme,single room,10000,yes,no,yes,5,3,boys pf
+Vaishali Nagar,single room,9000,yes,no,yes,4,3,boys pf
+Shyam Nagar,double sharing,11000,yes,no,yes,2,2,boys pg
+Adarsh Nagar,single room,11000,yes,no,yes,5,5,boys pf
+Tonk Road,single room,8000,yes,yes,no,2,2,boys pg
+Raja Park,double sharing,5000,no,yes,no,3,2,girls pg
+Civil Lines,single room,11000,yes,yes,yes,5,4,boys pg
+Civil Lines,single room,9000,yes,yes,yes,3,5,boys pg
+Kalwar Road,double sharing,11000,yes,no,yes,2,1,boys pg
+Malviya Nagar,single room,7000,yes,no,yes,5,3,boys pf
+Jagatpura,single room,7000,yes,no,no,5,4,boys pf
+Tonk Road,single room,6000,yes,yes,no,4,2,boys pg
+Raja Park,triple sharing,7000,yes,yes,no,5,5,boys pf
+Gopalpura,single room,6000,yes,yes,yes,3,5,boys pg
+Jagatpura,single room,5000,yes,no,no,3,4,boys pf
+Civil Lines,single room,5000,yes,yes,no,4,1,girls pg
+Jagatpura,single room,8000,yes,yes,no,4,2,girls pg
+Pratap Nagar,triple sharing,6000,yes,yes,no,3,5,boys pf
+Pratap Nagar,double sharing,7000,no,yes,no,3,3,girls pg
+Jhotwara,double sharing,10000,yes,no,yes,2,2,boys pg
+Jagatpura,single room,9000,yes,no,yes,5,4,boys pf
+Adarsh Nagar,single room,11000,yes,no,yes,1,2,boys pg
+Malviya Nagar,single room,6000,yes,yes,yes,4,5,boys pg
+Jagatpura,single room,5000,yes,no,yes,2,1,boys pg
+Bani Park,single room,7000,yes,yes,no,3,3,boys pg
+Civil Lines,double sharing,11000,no,yes,no,4,4,girls pg
+Malviya Nagar,single room,5000,yes,no,yes,3,1,boys pg
+Adarsh Nagar,single room,12000,yes,yes,no,3,2,boys pg
+C-Scheme,single room,11000,yes,no,yes,5,3,boys pf
+Sodala,single room,7000,yes,yes,yes,3,5,boys pg
+Jhotwara,double sharing,5000,no,yes,no,3,2,girls pg
+Kalwar Road,single room,7000,yes,yes,no,2,1,girls pg
+Bani Park,single room,12000,yes,no,yes,2,3,boys pg
+Bani Park,single room,5000,yes,no,no,4,4,boys pf
+Shyam Nagar,single room,11000,yes,yes,no,3,3,boys pg
+Shyam Nagar,single room,12000,yes,yes,no,4,2,boys pg
+Ajmer Road,single room,9000,yes,no,yes,5,4,boys pf
+Kalwar Road,double sharing,9000,yes,no,yes,1,1,boys pg
+Bani Park,single room,6000,yes,no,yes,2,3,boys pg
+Pratap Nagar,single room,5000,yes,yes,no,3,1,girls pg
+Shyam Nagar,single room,11000,yes,no,yes,3,4,boys pf
+Kalwar Road,single room,8000,yes,no,yes,3,1,boys pg
+Kalwar Road,double sharing,12000,yes,no,yes,1,1,boys pg
+Jagatpura,double sharing,6000,yes,no,yes,1,1,boys pg
+Jagatpura,double sharing,10000,yes,no,yes,2,1,boys pg
+Jagatpura,double sharing,5000,no,yes,no,3,3,girls pg
+Jagatpura,single room,10000,yes,no,yes,3,5,boys pf
+Malviya Nagar,single room,11000,yes,no,no,4,4,boys pf
+Vaishali Nagar,triple sharing,6000,yes,yes,no,3,5,boys pf
+Chitrakoot,double sharing,5000,yes,no,yes,2,1,boys pg
+Civil Lines,single room,12000,yes,yes,no,4,1,girls pg
+Vidyadhar Nagar,single room,11000,yes,yes,no,3,1,boys pg
+Jhotwara,single room,9000,yes,yes,yes,3,5,boys pg
+Jhotwara,triple sharing,7000,yes,yes,no,3,3,boys pf
+Jhotwara,single room,12000,yes,yes,no,3,1,boys pg
+Chitrakoot,single room,12000,yes,yes,no,2,1,girls pg
+Vidyadhar Nagar,single room,5000,yes,no,yes,5,3,boys pf
+Jagatpura,single room,6000,yes,no,no,5,5,boys pf
+Shyam Nagar,double sharing,6000,yes,no,yes,1,1,boys pg
+Mansarovar,single room,8000,yes,yes,no,2,1,boys pg
+Vidyadhar Nagar,triple sharing,5000,yes,yes,no,3,4,boys pf
+Adarsh Nagar,single room,9000,yes,yes,no,4,1,boys pg
+Gopalpura,single room,12000,yes,no,no,5,4,boys pf
+Raja Park,single room,6000,yes,yes,yes,5,4,boys pg
+Vidyadhar Nagar,double sharing,11000,no,yes,no,3,2,girls pg
+Tonk Road,single room,5000,yes,yes,no,4,2,girls pg
+Raja Park,single room,5000,yes,yes,yes,3,5,boys pg
+Civil Lines,single room,8000,yes,no,yes,5,5,boys pf
+C-Scheme,double sharing,6000,no,yes,no,3,2,girls pg
+Ajmer Road,double sharing,5000,no,yes,no,4,3,girls pg
+Sodala,single room,12000,yes,no,no,5,4,boys pf
+C-Scheme,single room,5000,yes,no,yes,1,3,boys pg
+Adarsh Nagar,single room,9000,yes,no,yes,3,1,boys pg
+Vaishali Nagar,single room,7000,yes,no,no,5,5,boys pf
+Malviya Nagar,single room,10000,yes,no,no,4,3,boys pf
+Jagatpura,single room,7000,yes,yes,yes,5,5,boys pg
+Mansarovar,single room,5000,yes,no,yes,3,2,boys pg
+Chitrakoot,single room,10000,yes,yes,no,2,1,girls pg
+Sodala,triple sharing,9000,yes,yes,no,5,3,boys pf
+Sodala,single room,11000,yes,no,no,3,3,boys pf
+Civil Lines,single room,11000,yes,yes,no,2,1,boys pg
+Ajmer Road,single room,12000,yes,yes,no,2,1,girls pg
+Jhotwara,single room,9000,yes,no,yes,1,3,boys pg
+Sodala,single room,8000,yes,yes,no,3,1,boys pg
+Gopalpura,single room,8000,yes,no,yes,5,3,boys pf
+Bani Park,double sharing,8000,yes,no,yes,1,2,boys pg
+Vaishali Nagar,double sharing,6000,no,yes,no,4,4,girls pg
+Shyam Nagar,single room,9000,yes,yes,no,2,1,boys pg
+Adarsh Nagar,single room,12000,yes,yes,no,3,1,girls pg
+Sitapura,triple sharing,6000,yes,yes,no,5,5,boys pf
+C-Scheme,single room,10000,yes,no,yes,2,2,boys pg
+Tonk Road,triple sharing,5000,yes,yes,no,4,4,boys pf
+Adarsh Nagar,triple sharing,6000,yes,yes,no,5,4,boys pf
+Malviya Nagar,triple sharing,10000,yes,yes,no,4,3,boys pf
+Jhotwara,single room,7000,yes,yes,no,4,3,boys pg
+Jhotwara,triple sharing,11000,yes,yes,no,3,5,boys pf
+Adarsh Nagar,triple sharing,10000,yes,yes,no,5,4,boys pf
+Bani Park,single room,11000,yes,no,yes,4,5,boys pf
+Jagatpura,single room,11000,yes,yes,yes,3,4,boys pg
+C-Scheme,single room,12000,yes,no,yes,3,5,boys pf
+Jagatpura,triple sharing,5000,yes,yes,no,5,5,boys pf
+Civil Lines,single room,8000,yes,no,yes,4,5,boys pf
+Raja Park,single room,8000,yes,no,no,5,5,boys pf
+Sitapura,single room,10000,yes,yes,no,2,3,boys pg
+Raja Park,single room,9000,yes,yes,no,4,3,boys pg
+Malviya Nagar,single room,9000,yes,no,yes,4,5,boys pf
+Gopalpura,double sharing,10000,no,yes,no,3,4,girls pg
+Sitapura,double sharing,5000,yes,no,yes,1,1,boys pg
+Sodala,single room,5000,yes,yes,yes,4,4,boys pg
+Kalwar Road,double sharing,7000,yes,no,yes,1,1,boys pg
+Vaishali Nagar,triple sharing,9000,yes,yes,no,5,3,boys pf
+C-Scheme,single room,8000,yes,no,yes,3,1,boys pg
+Mansarovar,single room,8000,yes,yes,no,2,1,boys pg
+Vidyadhar Nagar,single room,8000,yes,no,yes,3,4,boys pf
+Gopalpura,single room,8000,yes,yes,no,2,2,boys pg
+Malviya Nagar,triple sharing,12000,yes,yes,no,3,3,boys pf
+Adarsh Nagar,single room,7000,yes,yes,yes,4,4,boys pg
+Shyam Nagar,single room,7000,yes,yes,no,2,2,girls pg
+Kalwar Road,triple sharing,9000,yes,yes,no,5,4,boys pf
+Shyam Nagar,triple sharing,10000,yes,yes,no,3,5,boys pf
+Jhotwara,single room,12000,yes,yes,no,2,2,boys pg
+Mansarovar,single room,7000,yes,yes,no,2,1,girls pg
+Shyam Nagar,double sharing,6000,no,yes,no,4,4,girls pg
+C-Scheme,single room,6000,yes,yes,yes,3,4,boys pg
+Civil Lines,double sharing,8000,yes,no,yes,2,2,boys pg
+Pratap Nagar,single room,10000,yes,yes,no,3,3,boys pg
+Raja Park,single room,11000,yes,yes,yes,4,5,boys pg
+Civil Lines,double sharing,11000,yes,no,yes,2,2,boys pg
+Malviya Nagar,double sharing,12000,no,yes,no,3,2,girls pg
+Chitrakoot,single room,7000,yes,no,yes,5,5,boys pf
+Vaishali Nagar,single room,6000,yes,yes,no,2,2,girls pg
+Tonk Road,single room,9000,yes,yes,no,3,1,girls pg
+Kalwar Road,single room,6000,yes,yes,no,4,2,girls pg
+Pratap Nagar,double sharing,10000,yes,no,yes,2,1,boys pg
+Malviya Nagar,triple sharing,6000,yes,yes,no,5,5,boys pf
+C-Scheme,single room,11000,yes,no,no,5,5,boys pf
+Jagatpura,double sharing,10000,yes,no,yes,1,1,boys pg
+C-Scheme,single room,6000,yes,yes,no,3,3,boys pg
+Vaishali Nagar,triple sharing,6000,yes,yes,no,3,3,boys pf
+Jagatpura,double sharing,8000,no,yes,no,4,3,girls pg
+Pratap Nagar,single room,11000,yes,no,yes,4,5,boys pf
+Adarsh Nagar,single room,11000,yes,no,yes,3,5,boys pf
+Jhotwara,double sharing,6000,yes,no,yes,1,1,boys pg
+Vidyadhar Nagar,triple sharing,10000,yes,yes,no,3,3,boys pf
+Vidyadhar Nagar,triple sharing,5000,yes,yes,no,3,3,boys pf
+Chitrakoot,single room,11000,yes,yes,no,3,1,boys pg
+Sodala,single room,9000,yes,yes,no,2,1,girls pg
+Sodala,single room,9000,yes,no,no,3,5,boys pf
+Ajmer Road,single room,11000,yes,no,yes,3,1,boys pg
+Kalwar Road,double sharing,10000,no,yes,no,3,3,girls pg
+Vaishali Nagar,single room,8000,yes,yes,no,3,2,boys pg
+Adarsh Nagar,triple sharing,10000,yes,yes,no,3,3,boys pf
+Raja Park,single room,9000,yes,yes,no,2,3,boys pg
+Jagatpura,single room,6000,yes,yes,yes,4,4,boys pg
+Jagatpura,single room,6000,yes,yes,no,3,1,girls pg
+Sitapura,single room,6000,yes,no,no,5,4,boys pf
+Ajmer Road,single room,12000,yes,yes,no,4,1,girls pg
+Kalwar Road,double sharing,8000,no,yes,no,4,2,girls pg
+Pratap Nagar,double sharing,8000,no,yes,no,3,3,girls pg
+Mansarovar,single room,8000,yes,yes,no,3,1,girls pg
+Kalwar Road,single room,9000,yes,no,yes,4,5,boys pf
+Sitapura,double sharing,9000,no,yes,no,2,2,girls pg
+Tonk Road,single room,7000,yes,no,yes,3,2,boys pg
+Jhotwara,triple sharing,7000,yes,yes,no,5,3,boys pf
+Tonk Road,triple sharing,11000,yes,yes,no,3,5,boys pf
+Chitrakoot,single room,8000,yes,no,no,4,3,boys pf
+Mansarovar,single room,6000,yes,yes,no,2,3,boys pg
+Vaishali Nagar,single room,6000,yes,no,yes,4,3,boys pf
+C-Scheme,single room,12000,yes,no,yes,3,2,boys pg
+Pratap Nagar,single room,9000,yes,no,yes,3,2,boys pg
+Kalwar Road,double sharing,8000,no,yes,no,4,3,girls pg
+Sitapura,single room,8000,yes,no,yes,3,4,boys pf
+Pratap Nagar,single room,7000,yes,no,yes,4,3,boys pf
+Kalwar Road,double sharing,10000,no,yes,no,2,3,girls pg
+Tonk Road,single room,8000,yes,yes,yes,3,4,boys pg
+Sitapura,double sharing,7000,no,yes,no,4,2,girls pg
+Chitrakoot,single room,5000,yes,no,yes,5,3,boys pf
+Mansarovar,single room,5000,yes,yes,no,2,2,girls pg
+Gopalpura,single room,11000,yes,yes,no,4,1,boys pg
+Adarsh Nagar,triple sharing,5000,yes,yes,no,4,3,boys pf
+Sodala,triple sharing,10000,yes,yes,no,3,5,boys pf
+Vaishali Nagar,single room,12000,yes,no,yes,2,3,boys pg
+Sodala,single room,6000,yes,yes,no,4,1,boys pg
+Civil Lines,triple sharing,12000,yes,yes,no,5,4,boys pf
+Sodala,single room,10000,yes,no,yes,3,2,boys pg
+Sitapura,single room,11000,yes,yes,no,3,3,boys pg
+Tonk Road,single room,5000,yes,yes,no,4,3,boys pg
+Jhotwara,single room,5000,yes,no,no,5,3,boys pf
+Pratap Nagar,single room,11000,yes,no,yes,2,1,boys pg
+Ajmer Road,single room,9000,yes,no,yes,3,3,boys pf
+Gopalpura,triple sharing,12000,yes,yes,no,4,4,boys pf
+Tonk Road,single room,12000,yes,no,no,4,3,boys pf
+Jhotwara,single room,12000,yes,no,yes,4,3,boys pf
+Malviya Nagar,single room,12000,yes,yes,no,4,1,girls pg
+Gopalpura,single room,11000,yes,no,yes,2,3,boys pg
+Ajmer Road,single room,10000,yes,yes,yes,4,4,boys pg
+Chitrakoot,single room,7000,yes,no,yes,3,5,boys pf
+Vidyadhar Nagar,double sharing,12000,yes,no,yes,2,1,boys pg
+Jhotwara,single room,8000,yes,yes,no,4,3,boys pg
+Ajmer Road,single room,7000,yes,yes,no,3,2,girls pg
+Vidyadhar Nagar,single room,11000,yes,no,yes,2,3,boys pg
+C-Scheme,single room,9000,yes,yes,no,3,1,boys pg
+Chitrakoot,triple sharing,5000,yes,yes,no,3,4,boys pf
+Adarsh Nagar,triple sharing,8000,yes,yes,no,5,4,boys pf
+Pratap Nagar,single room,8000,yes,no,yes,2,2,boys pg
+Malviya Nagar,double sharing,8000,yes,no,yes,1,1,boys pg
+Tonk Road,single room,8000,yes,no,yes,3,2,boys pg
+Vidyadhar Nagar,single room,9000,yes,no,no,5,3,boys pf
+Malviya Nagar,single room,12000,yes,no,yes,4,3,boys pf
+Sodala,single room,9000,yes,yes,no,4,2,boys pg
+Raja Park,single room,11000,yes,no,no,5,5,boys pf
+Malviya Nagar,double sharing,8000,yes,no,yes,1,1,boys pg
+Kalwar Road,single room,12000,yes,yes,no,2,2,boys pg
+Sodala,double sharing,7000,no,yes,no,4,4,girls pg
+Chitrakoot,single room,7000,yes,yes,no,4,3,boys pg
+Adarsh Nagar,triple sharing,10000,yes,yes,no,5,4,boys pf
+Ajmer Road,single room,9000,yes,no,yes,2,2,boys pg
+Malviya Nagar,triple sharing,12000,yes,yes,no,4,4,boys pf
+Raja Park,double sharing,9000,no,yes,no,2,3,girls pg
+Kalwar Road,single room,7000,yes,yes,no,2,2,boys pg
+Jhotwara,single room,7000,yes,no,no,3,5,boys pf
+Malviya Nagar,double sharing,8000,yes,no,yes,2,2,boys pg
+Gopalpura,single room,9000,yes,no,no,4,4,boys pf
+Malviya Nagar,triple sharing,10000,yes,yes,no,4,4,boys pf
+Mansarovar,single room,10000,yes,yes,yes,3,5,boys pg
+Mansarovar,single room,10000,yes,no,no,3,3,boys pf
+Vaishali Nagar,double sharing,9000,no,yes,no,4,2,girls pg
+Shyam Nagar,single room,12000,yes,no,yes,2,2,boys pg
+Jhotwara,double sharing,5000,yes,no,yes,2,1,boys pg
+Shyam Nagar,double sharing,8000,no,yes,no,2,4,girls pg
+Civil Lines,double sharing,10000,yes,no,yes,2,1,boys pg
+Kalwar Road,single room,8000,yes,yes,yes,5,4,boys pg
+C-Scheme,single room,8000,yes,yes,no,2,1,girls pg
+Malviya Nagar,single room,10000,yes,no,no,4,5,boys pf
+Bani Park,single room,10000,yes,no,yes,1,1,boys pg
+Jhotwara,single room,6000,yes,yes,no,2,1,boys pg
+Civil Lines,double sharing,5000,yes,no,yes,1,1,boys pg
+Vidyadhar Nagar,single room,9000,yes,no,no,4,4,boys pf
+Sitapura,double sharing,6000,yes,no,yes,1,1,boys pg
+Mansarovar,single room,6000,yes,no,no,4,5,boys pf
+Raja Park,single room,9000,yes,no,no,3,5,boys pf
+Civil Lines,triple sharing,12000,yes,yes,no,3,4,boys pf
+Kalwar Road,single room,7000,yes,yes,yes,4,5,boys pg
+Civil Lines,single room,10000,yes,no,yes,2,1,boys pg
+Jagatpura,single room,5000,yes,yes,no,3,3,boys pg
+C-Scheme,single room,6000,yes,yes,no,3,2,girls pg
+Pratap Nagar,single room,12000,yes,no,no,3,5,boys pf
+Civil Lines,single room,5000,yes,no,yes,3,3,boys pg
+Sitapura,double sharing,7000,yes,no,yes,1,1,boys pg
+Malviya Nagar,triple sharing,8000,yes,yes,no,5,4,boys pf
+Bani Park,triple sharing,8000,yes,yes,no,4,4,boys pf
+Gopalpura,single room,10000,yes,yes,yes,5,4,boys pg
+Civil Lines,single room,5000,yes,no,yes,3,4,boys pf
+Vidyadhar Nagar,single room,11000,yes,no,no,3,4,boys pf
+C-Scheme,double sharing,12000,no,yes,no,3,2,girls pg
+Gopalpura,single room,11000,yes,yes,no,4,1,girls pg
+Vaishali Nagar,single room,9000,yes,no,no,4,4,boys pf
+Ajmer Road,single room,10000,yes,yes,yes,5,5,boys pg
+Chitrakoot,double sharing,6000,yes,no,yes,1,1,boys pg
+Vidyadhar Nagar,double sharing,7000,yes,no,yes,2,1,boys pg
+Chitrakoot,single room,10000,yes,yes,yes,4,4,boys pg
+Ajmer Road,single room,11000,yes,no,no,4,4,boys pf
+Pratap Nagar,triple sharing,10000,yes,yes,no,5,4,boys pf
+Vaishali Nagar,double sharing,9000,yes,no,yes,1,1,boys pg
+Shyam Nagar,single room,8000,yes,yes,yes,4,5,boys pg
+Bani Park,single room,5000,yes,no,yes,3,4,boys pf
+Gopalpura,single room,12000,yes,no,yes,3,1,boys pg
+Pratap Nagar,single room,5000,yes,no,no,5,5,boys pf

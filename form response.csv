@@ -1,0 +1,13 @@
+Timestamp,Which city is your PG / hostel located in? ,"What is the area/locality of your PG?  
+Example response: Malviya Nagar",Room Type ,Monthly Rent , Does your PG provide WiFi?  ,   Is AC available in the room?  ,   Is laundry service available?  ,  Cleanliness rating of your PG  ,Overall rating of your PG (would u recommend your pg to others ),  Gender Accommodation  
+07/03/2026 17:51:35,jaipur,Jagatpura,triple sharing,21000,yes,yes,no,4,4,boys pf
+07/03/2026 17:55:25,jaipur,Jagatpura,single room,11000,yes,no,yes,4,4,boys pf
+07/03/2026 17:57:52,jaipur,Jagatpura,single room,13000,yes,no,no,4,4,boys pf
+07/03/2026 18:16:03,other,Navi Mumbai kharghar ,triple sharing,9000,yes,no,yes,4,3,boys pg
+07/03/2026 18:28:03,jaipur,Sitapura,double sharing,8000,no,yes,no,3,3,girls pg
+07/03/2026 18:46:55,jaipur,Jagatpura,double sharing,10500,yes,no,yes,1,1,boys pg
+07/03/2026 18:47:28,jaipur,Jagatpura,single room,12000,yes,no,yes,2,2,boys pg
+07/03/2026 19:00:09,jaipur,Pratap Nagar ,single room,13000,yes,yes,no,3,1,girls pg
+07/03/2026 19:03:23,jaipur,Jagatpura ,single room,6500,yes,yes,no,3,2,boys pg
+07/03/2026 21:31:54,banglore,"spice garden layout, marathahalli",double sharing,13000,yes,no,yes,5,5,co-ed
+07/03/2026 23:37:40,jaipur,Jagatpura,single room,14000,yes,yes,yes,4,5,boys pg
