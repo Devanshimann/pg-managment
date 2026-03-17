@@ -50,6 +50,7 @@ Room type
 This helps users estimate how much a PG should cost.
 
 🧠 Machine Learning Workflow<br>
+
 1️⃣ Data Collection
 
 Google Form responses
