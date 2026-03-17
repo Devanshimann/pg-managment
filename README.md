@@ -1,6 +1,6 @@
 🏠 Jaipur PG Smart Finder
 
-A Machine Learning-powered web application that helps users explore and find Paying Guest (PG) accommodations in Jaipur based on budget, amenities, and preferences. The system also predicts the estimated rent of a PG using a trained ML model.
+A Machine Learning-powered web application that helps users explore and find Paying Guest (PG) accommodations in Jaipur area based on budget, amenities, and preferences. The system also predicts the estimated rent of a PG using a trained ML model.
 
 The project combines data analysis, machine learning, and interactive visualization using Streamlit.
 
@@ -25,11 +25,9 @@ Rating vs rent analysis
 
 🔍 Find PG
 
-Users can search for PG accommodations using filters:
+Users can search for PG accommodations area using filters:
 
 Budget
-
-Area
 
 WiFi availability
 
