@@ -81,4 +81,24 @@ model=RandomForestRegressor()
 model.fit(x_train,y_train)
 pred=model.predict(x_test)
 mse=mean_absolute_error(y_test,pred)
-print(mse)
+
+df['score']=(df["amenity_score"]*1.5+df['rating']*2-df["rent"]/1000)
+def recommend (budget,wifi=None,ac=None,room=None):
+    result=df[df["rent"]<=budget]
+    if wifi is not None:
+        result=df[df["wifi"]==wifi]
+    if ac is not None:
+        result=df[df["ac"]==ac]
+    if room is not None:
+        result=df[df["room_type"]==room]
+    result=result.sort_values('score',ascending=False)
+    return result.head(5)
+
+importance=pd.Series(model.feature_importances_,index=x.columns).sort_values(ascending=False)
+
+import joblib
+
+joblib.dump(model, "pg_rent_model.pkl")
+joblib.dump(x.columns.tolist(), "model_columns.pkl")
+df.to_csv("processed_pg_dataset.csv", index=False)
+
