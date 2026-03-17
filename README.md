@@ -10,7 +10,7 @@ You can access the deployed app here:
 
 🔗 https://pg-managment-001.streamlit.app/
 
-📌 Features
+📌 Features<br>
 📊 PG Market Dashboard
 
 Interactive insights about the PG market in Jaipur:
@@ -51,7 +51,7 @@ Room type
 
 This helps users estimate how much a PG should cost.
 
-🧠 Machine Learning Workflow
+🧠 Machine Learning Workflow<br>
 1️⃣ Data Collection
 
 Google Form responses
@@ -103,9 +103,8 @@ The Random Forest model gave the best performance and was used for rent predicti
 🛠 Tech Stack
 Programming Language
 
-Python
-
-Libraries
+Python<br>
+libraries<br>
 
 Pandas
 
