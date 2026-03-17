@@ -101,10 +101,12 @@ R² Score
 The Random Forest model gave the best performance and was used for rent prediction.
 
 🛠 Tech Stack
-Programming Language
+Programming Language:
 
 Python<br>
-libraries<br>
+
+
+libraries:<br>
 
 Pandas
 
@@ -116,6 +118,6 @@ Matplotlib
 
 Joblib
 
-Framework
+Framework:
 
 Streamlit
