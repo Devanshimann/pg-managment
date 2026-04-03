@@ -118,7 +118,6 @@ with tab2:
         st.write(f"❄️ AC: {ac_val}")
         st.write(f"🧺 Laundry: {laundry_val}")
 
-# ------------------- TAB 3 -------------------
 with tab3:
 
     st.header("Predict PG Rent")
